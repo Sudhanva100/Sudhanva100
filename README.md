@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudhanva HP</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/e15673dd-66a9-4f4e-9212-d2c151a20061)">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanva100&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanva100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanva100" alt="sudhanva100" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanva100&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanva100" /> </p>
 
 - 🌱 I’m currently learning **Power BI and Tensorflow**
 
