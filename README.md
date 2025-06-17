@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Power BI and Tensorflow**
 
-- 👯 I’m looking to collaborate on **picture correction**
+- 👯 I’m looking to collaborate on **AI Research**
 
-- 💬 Ask me about **docker**
+- 💬 Ask me about **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **hpsudhanva2@gmail.com**
 
 - 📄 Know about my experiences [https://publuu.com/flip-book/702741/1562170](https://publuu.com/flip-book/702741/1562170)
 
-- ⚡ Fun fact **National Level Kabaddi Player :)**
+- ⚡ Fun fact **A rare blend of discipline and approachable energy, adaptable in both solo and team settings :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
