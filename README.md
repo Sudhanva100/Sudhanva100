@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudhanva HP</h1>
+<h1 align="center">Hi 👋, I'm Sudhanva </h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
